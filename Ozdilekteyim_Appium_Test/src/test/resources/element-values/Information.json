@@ -1,0 +1,78 @@
+[
+  {
+    "key": "alisverisebasla_button",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore",
+    "androidType": "id"
+  },
+  {
+    "key": "anasayfa_kontrol" ,
+    "androidValue": "com.ozdilek.ozdilekteyim:id/relLayMarket",
+    "androidType": "id"
+  },
+  {
+    "key": "kategoriler_button" ,
+    "androidValue":"com.ozdilek.ozdilekteyim:id/nav_categories",
+    "androidType": "id"
+  },
+  {
+    "key": "kategori_kontrol" ,
+    "androidValue": "//android.widget.LinearLayout[@content-desc='Kategoriler']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "kadın_secenegi" ,
+    "androidValue": "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayCategoriesItem'][2]",
+    "androidType": "xpath"
+  }, {
+  "key": "pantolon_secenegi" ,
+  "androidValue": "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayCategoriesItem'][4]",
+  "androidType": "xpath"
+},
+  {
+    "key": "urun_sec" ,
+    "androidValue": "//*[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerView']/android.widget.FrameLayout[3]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "urundetay_kontrol" ,
+    "androidValue": "com.ozdilek.ozdilekteyim:id/tvItemDescription",
+    "androidType": "id"
+  },
+  {
+    "key": "favoriler_tusu" ,
+    "androidValue": "com.ozdilek.ozdilekteyim:id/relLayAddFav",
+    "androidType": "id"
+  },
+  {
+    "key": "eposta_alanı" ,
+    "androidValue": "com.ozdilek.ozdilekteyim:id/etEposta",
+    "androidType": "id"
+  },
+  {
+    "key": "sifre_alanı" ,
+    "androidValue": "com.ozdilek.ozdilekteyim:id/etPassword" ,
+    "androidType": "id"
+  },
+  {
+    "key": "login_butonu" ,
+    "androidValue": "com.ozdilek.ozdilekteyim:id/btnLogin\"" ,
+    "androidType": "id"
+  },
+  {
+    "key": "yeni_urun" ,
+    "androidValue": "//*[@resource-id='com.ozdilek.ozdilekteyim:id/textView13']" ,
+    "androidType": "xpath"
+  },
+  {
+    "key": "geri_tusu" ,
+    "androidValue": "com.ozdilek.ozdilekteyim:id/ivBack" ,
+    "androidType": "id"
+  },
+  {
+    "key": "sepet" ,
+    "androidValue": "//android.widget.FrameLayout[@content-desc='Sepetim, 1 new notification']/android.widget.ImageView" ,
+    "androidType": "xpath"
+
+  }
+
+]

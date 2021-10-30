@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"OZDILEKTEYIM SENARYOSU":["specs/example.html"]}};
